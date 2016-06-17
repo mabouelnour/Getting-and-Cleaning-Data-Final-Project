@@ -22,6 +22,6 @@ As per the assignment requirements, the R script does the following:
 
 10-Converts the activity and subject columns into factors
 
-11-Using the melt and dcast functions of rshape2 package, creates a tidy dataset that consists of the average (mean) value of each variable for each subject and activity pair.
+11-Using the melt and dcast functions of reshape2 package, creates a tidy dataset that consists of the average (mean) value of each variable for each subject and activity pair.
 
 12-The Final Text file is saved as  Final_Cleaned_Data.txt

@@ -2,7 +2,7 @@
 
 As per the assignment requirements, the R script does the following:
 
-1-Set the working directory of the appropriate foler
+1-Set the working directory of the appropriate folder
 
 2-Check the existance of the dataset and upload it if it was not existed (useful for testing the code)
 
